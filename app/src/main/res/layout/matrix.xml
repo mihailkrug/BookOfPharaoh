@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tableLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/blak_boder">
+
+    <TableRow
+        android:id="@+id/tableRow0"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/ImageView00"
+            style="@style/square"
+            android:background="@drawable/blak_boder" />
+
+        <ImageView
+            android:id="@+id/ImageView01"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImageView02"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImageView03"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/ImageView10"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImageView11"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImageView12"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImageView13"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/ImageView20"
+            style="@style/square"
+            android:background="@drawable/blak_boder" />
+
+        <ImageView
+            android:id="@+id/ImageView21"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImageView22"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImageView23"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow3"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/ImageView30"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImageView31"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImageView32"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+
+        <ImageView
+            android:id="@+id/ImageView33"
+            style="@style/square"
+            android:background="@drawable/blak_boder"
+
+            />
+    </TableRow>
+
+</TableLayout>

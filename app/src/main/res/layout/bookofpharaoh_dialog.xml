@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="@color/ColorWhite"
+        android:text="@string/gameover"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:id="@+id/bokkofpharaoh_dialog_txtvw_msg"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <Button
+            android:layout_marginLeft="5dp"
+            android:text="Cancel"
+            android:id="@+id/bokkofpharaoh_dialog_btn_left"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+
+            android:textColor="@color/ColorWhite"
+            android:background="@color/onColor"
+            android:fontFamily="@font/font_rockletter_transparent"
+            android:textSize="20sp"
+            android:layout_weight="0.4"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:layout_marginLeft="5dp"
+            android:id="@+id/bokkofpharaoh_dialog_btn_right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="New Game"
+            android:textColor="@color/ColorWhite"
+            android:background="@color/onColor"
+            android:fontFamily="@font/font_rockletter_transparent"
+            android:textSize="20sp"
+            android:layout_weight="0.4"
+            android:textStyle="bold"
+            />
+    </LinearLayout>
+
+</LinearLayout>

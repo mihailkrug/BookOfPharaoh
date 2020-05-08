@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Book Of Pharaoh</string>
+    <string name="you_win">You Win</string>
+    <string name="lives">lives: </string>
+    <string name="points">points: </string>
+    <string name="new_game">New Game</string>
+    <string name="exit">Exit</string>
+    <string name="rules">HOW TO PLAY: Use your arrow keys to move the tiles. When two tiles with the same number touch, they merge into one!</string>
+    <string name="gameover">Gameover! Do you want to start new game now?</string>
+</resources>
