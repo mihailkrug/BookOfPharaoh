@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">Book Of Pharaoh</string>
+    <string name="facebook_app_id">182658552924152</string>
+    <string name="fb_login_protocol_scheme">fb182658552924152</string>
     <string name="you_win">You Win</string>
-    <string name="lives">lives: </string>
-    <string name="points">points: </string>
+    <string name="lives">Lives: </string>
+    <string name="points">Points: </string>
     <string name="new_game">New Game</string>
     <string name="exit">Exit</string>
     <string name="rules">HOW TO PLAY: Use your arrow keys to move the tiles. When two tiles with the same number touch, they merge into one!</string>
